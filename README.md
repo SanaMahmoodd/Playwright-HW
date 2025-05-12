@@ -1,8 +1,8 @@
 # Playwright-HW
 
-Go to website https://www.saucedemo.com/
-login 
-Add product to the cart
-Go to the cart 
-Check the contents of the selected one
-Logout
+1. Go to the website https://www.saucedemo.com/
+2. login 
+3. Add product to the cart
+4. Go to the cart 
+5. Check the contents of the selected one
+6. Logout
